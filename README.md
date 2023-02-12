@@ -6,3 +6,5 @@ Sistema desenvolvido para trabalho da disciplina de estrutura de dados, no segun
 O sistema conta com alguns bugs:
   - Erro ao remover estações com 4 ou mais conexões.
   - O sistema de rotas falha em alguns casos, e a rota exibida não escolhe o melhor caminho.
+
+Obs: O sistema não compila em algumas IDE's por causa do nome das structs. O sistema foi desenvolvido e compila normalmente no compilador Online gdb.
